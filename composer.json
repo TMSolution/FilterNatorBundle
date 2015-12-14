@@ -1,5 +1,5 @@
 {
-    "name": "savvy/filternator-bundle",
+    "name": "tmsolution/filternator-bundle",
     "type": "symfony-bundle",
     "description": "Bundle to use knp paginator bundle and lexik form filter bundle",
     "keywords": ["paginate", "filter"],
